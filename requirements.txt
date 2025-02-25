@@ -1,0 +1,3 @@
+discord.py==2.3.2
+python-dotenv==1.0.0  # Si tu utilises un fichier .env pour gérer ton token
+requests==2.31.0  # Optionnel, si tu veux effectuer des requêtes HTTP
